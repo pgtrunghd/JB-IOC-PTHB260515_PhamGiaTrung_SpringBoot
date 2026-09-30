@@ -1,4 +1,4 @@
-package com.homework.jbiocpthb260515_phamgiatrung;
+package com.homework.jbiocpthb260515_phamgiatrung.controller;
 
 import com.homework.jbiocpthb260515_phamgiatrung.dto.ApiResponse;
 import com.homework.jbiocpthb260515_phamgiatrung.dto.BuildingRequest;
